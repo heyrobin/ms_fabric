@@ -1,5 +1,5 @@
 product_id,category,product_name,price
-P100,Processor,Intel i5,18500
+P100,Processor,Intel i5,18000
 P101,Processor,Intel i7,32000
 P102,Processor,AMD Ryzen 5,20000
 P103,RAM,8GB DDR4,2500
